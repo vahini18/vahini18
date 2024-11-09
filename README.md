@@ -7,7 +7,7 @@
 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Linkedin profile](https://www.linkedin.com/in/vahini-m/)    
+  
 
 - 🌱 I’m currently learning Computer Science and Engineering
   
@@ -17,10 +17,16 @@
   
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I know drawing.
+ 
+<div align="center"> 
+  <a href="mailto:vahinimurugambigai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  
  <a href="https://www.linkedin.com/in/vahini-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
-
+<div align="left"> 
+ 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 
