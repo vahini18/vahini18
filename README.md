@@ -25,14 +25,29 @@
  <a href="https://www.linkedin.com/in/vahini-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
+ 
+
+
+</div>
 <div align="left"> 
  
-## I code in
+## ⚒️ Languages
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 
-
-### Stats⚡
-
-![](https://github-readme-stats.vercel.app/api?username=vahini18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats
+![vahini18's Stats](https://github-readme-stats.vercel.app/api?username=vahini18&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 
 
+
+![vahini18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vahini18&theme=monokai&hide_border=false)
+
+
+
+
+![vahini18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vahini18&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vahini18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thankyou+for+Visiting!;" />
