@@ -13,11 +13,11 @@
   
 - 💬 Ask me about creative designing
   
-- 📫 How to reach me :vahinimurugambigai@gmail.com
-  
 - 😄 Pronouns: She/Her
+  
 - ⚡ Fun fact: I know drawing.
- 
+  
+- 📫 How to reach me :vahinimurugambigai@gmail.com
 <div align="center"> 
   <a href="mailto:vahinimurugambigai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,9 +27,12 @@
 
 <div align="left"> 
  
-### I code in
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
+## I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 
 
+### Stats⚡
+
+![](https://github-readme-stats.vercel.app/api?username=vahini18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
